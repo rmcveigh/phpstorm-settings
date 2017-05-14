@@ -8,6 +8,7 @@
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping ext="wrapper" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
