@@ -9,6 +9,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="wrapper" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
