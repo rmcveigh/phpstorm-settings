@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e81a0ac5-98a6-4b42-9b32-9979132d8ae8" name="Woods Boss Brewing" url="http://dev-woods-boss-brewing.pantheonsite.io/">
+        <fileTransfer host="appserver.dev.29d63a99-268e-436c-9374-cd05ab40401f.drush.in" port="2222" rootFolder="/srv/bindings/bd29409b33294ca9bb2d6ccb464ef0c1/code" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
