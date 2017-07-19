@@ -9,6 +9,14 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="bc1399db-c274-4c46-bf71-8e28a2c9276e" name="Pantheon" url="http://dev-woods-boss-brewing-company.pantheonsite.io/">
+        <fileTransfer host="appserver.dev.fc3f6b5a-6d79-4d3a-ae8a-ce4a2a457c53.drush.in" port="2222" rootFolder="/srv/bindings/9f1617fdf33d44688bb9660219b7032d/code" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
