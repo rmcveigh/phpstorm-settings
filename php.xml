@@ -1,7 +1,11 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration max_messages_per_file="100" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="$USER_HOME$/git/dev-docker/sites/web_1/card/sites/all/tests/vendor/squizlabs/php_codesniffer/scripts/phpcs" />
+      <PhpCSConfiguration max_messages_per_file="100" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/git/dev-docker/sites/web_1/card/sites/all/tests/vendor/squizlabs/php_codesniffer/scripts/phpcs" timeout="30000" />
     </phpcs_settings>
   </component>
 </application>
