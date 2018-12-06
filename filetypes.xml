@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="install" type="PHP" />
+      <removed_mapping pattern=".install" approved="true" type="PHP" />
     </extensionMap>
   </component>
 </application>
